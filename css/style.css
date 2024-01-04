@@ -544,11 +544,12 @@ body {
 }
 .modal-button-close:hover,
 .modal-button-close:focus {
-    background-color: var(--moderate-blue);
-    border: none;
+  background-color: var(--moderate-blue);
+  border: none;
 }
+
 .modal-button-close-svg {
-    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .modal-button-close:hover,
