@@ -141,7 +141,7 @@ body {
 }
 /* HW5 */
 .button-one {
-   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .button-one {
     background-color: var(--IRIS);
@@ -259,7 +259,7 @@ body {
     align-items: center;
     justify-content: center;
     /* HW5 */
-    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .socmed:hover, .socmed:focus {
     background-color: var(--moderate-blue);
